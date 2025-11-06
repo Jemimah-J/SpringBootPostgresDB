@@ -1,0 +1,11 @@
+.gradle
+build
+out
+.gradle-cache
+*.jar
+*.war
+*.class
+.idea
+.vscode
+.DS_Store
+target
